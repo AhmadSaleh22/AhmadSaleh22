@@ -14,6 +14,7 @@ I have the Ability to work with Group Very efficiently.
 At this moment, I would like to join Software development companies with part-time or full-time
 
 ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AhmadSaleh22&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSaleh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### - 🔭 I’m currently working as a Frontend developer
 #### - 🌱 I’m currently learning Machine Learning and Deep Learning
