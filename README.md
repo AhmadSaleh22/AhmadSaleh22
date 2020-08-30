@@ -13,6 +13,8 @@ Tested websites and performed troubleshooting prior to deployment.
 I have the Ability to work with Group Very efficiently. 
 At this moment, I would like to join Software development companies with part-time or full-time
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 #### - 🔭 I’m currently working as a Frontend developer
 #### - 🌱 I’m currently learning Machine Learning and Deep Learning
 #### - 💬 Ask me about Python, Js, React.js, HTML, CSS, and Bootstrap.
