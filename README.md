@@ -1,38 +1,40 @@
-### Hi there i'm Ahmad 👋 👨🏻‍💻
+## Hi, I'm Ahmad
 
-[![twitter badge](https://img.shields.io/badge/twitter-@Ahmad_N_Saleh1-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ahmad_N_Saleh1)
-[![dev.to badge](https://img.shields.io/badge/linkedin-ahmadnsaleh-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmadnsaleh)
-[![twitter badge](https://img.shields.io/badge/instagram-@ahmadn.saleh2-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadn.saleh2)
+I'm a software engineer with 5+ years building web and mobile products for payroll, healthcare and manufacturing. I work across the stack in React, TypeScript, Node.js and Python, on AWS and GCP. Before I build, I talk to the people who will use the software, from plant operators to finance teams and doctors.
 
-𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a proven track record in crafting innovative solutions for Financial Tech, Delivery and Tracking Systems, and SAAS platforms. Proficient in Node.js, React.js, and TypeScript, with comprehensive expertise in DevOps practices within Google Cloud and AWS environments. I specialize in designing and implementing SAAS recommendation systems, contributing to the strategic growth of online stores and market expansion.
+Based in Cairo (UTC+3). Open to remote roles and relocation, as a senior engineer who owns a product area end to end: frontend architecture, APIs, data and the release process.
 
-🎓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗔𝗹-𝗔𝘇𝗵𝗮𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 - 𝗚𝗮𝘇𝗮, I have published research on brain tumor classification using AI algorithms, CNN, and deep learning. My technical skill set extends to serverless applications, mobile applications, progressive web apps, and UI/UX design using ReactJs, NextJs, Figma, Adobe XD, and Workprint.
+[Website](https://ansaleh.com/?ref=github) · [LinkedIn](https://www.linkedin.com/in/ahmadnsaleh) · [Email](mailto:dev.ahmadsaleh@gmail.com) · [Book a call](https://cal.com/ansaleh/intro-call) · [CV](https://ansaleh.com/Ahmad-Saleh-CV.pdf)
 
-💼 Currently, as a 𝗦𝗲𝗻𝗶𝗼𝗿 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 𝗘𝗱𝗱𝗲𝗸𝗵𝗮𝗿, I elevate user experiences through expert frontend engineering and team leadership. My previous roles include transforming products into dynamic SAAS systems at Albaab and spearheading the development of automation tools and ML engines at EasySales AI.
+### Selected work
 
-💡 I am passionate about creating secure and 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 for 𝗔𝗜 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 in the healthcare field and have experience working with Docker, recommendation systems, and serverless computing. I am dedicated to continuous learning and development, always striving to enhance both my technical skills and the user experiences of the products I work on.
+- [**Syntax**](https://ansaleh.com/work/syntax?ref=github) (2025–2026). Led frontend for a production-planning platform used by 10 manufacturing plants to run their production lines, including a real-time 3D view of the plant floor in Three.js. Four major releases with zero rollbacks, and planning time cut by about half.
+- [**Marham Care**](https://ansaleh.com/work/marham?ref=github) (2024–2025). A healthcare publishing platform. I added Jest and SuperTest suites and CI/CD test gates, so nothing reached production without passing automated checks.
+- [**G-Gateway**](https://ansaleh.com/work/g-gateway?ref=github) (2024). Event-driven job-matching services in Node.js and Python on GCP Pub/Sub and Cloud Run.
+- [**Eddekhar**](https://ansaleh.com/work/eddekhar?ref=github) (2023–2024). An in-house ERP for payroll, finance and treasury, serving 1,400 employees across 5 companies. I led the team of 5 that built it. Report turnaround went from a week to a day.
+- [**Easy-Sales AI**](https://ansaleh.com/work/easy-sales?ref=github) (2021–2022). The product had plenty of active users and very few buyers. Talking to them showed the problem was pricing, timing and purchase intent. Rebuilding the purchase journey added $300K in two months.
 
-At this moment, I would like to join Software development companies with part-time or full-time
+### Projects
 
-#### - 🔭 I’m currently working as a Frontend developer
-#### - 🌱 I’m currently learning Machine Learning and Deep Learning
-#### - 💬 Ask me about Python, Js, React.js, HTML, CSS, and Bootstrap.
-#### - 📫 How to reach me: dev.ahmadsaleh@gmail.com
+- [**TRENDOW**](https://github.com/AhmedShantti/ros-frontend) (in progress). Restaurant operating system for MENA: point of sale, kitchen display, stock and cash drawer, in Arabic and English. Tech lead, team of 3. Next.js, TypeScript and Zustand.
+- [**OffBrand**](https://github.com/AhmadSaleh22/full-stack-offbrand). Luxury fashion marketplace with a retail store and a dropshipping platform for merchants, plus checkout, orders and an admin. Next.js, NestJS and Prisma.
+- [**Requirements classifier**](https://github.com/AhmadSaleh22/ai-model-system-requirements-analysis). Classifies software requirements (90.7% functional vs. non-functional with SVM, 74% across 11 non-functional types), flags ambiguous wording and drafts a BRD. Python and scikit-learn.
+- [**JobCopilot**](https://github.com/AhmadSaleh22/job-copilot) (in progress). Event-driven job matching on GCP Pub/Sub and Cloud Run, with LLM CV parsing. TypeScript, PostgreSQL with Prisma, and Terraform.
 
+### Stack
 
-- ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AhmadSaleh22&show_icons=true&theme=radical)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSaleh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Frontend:** React, Next.js, Angular, Three.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, Python, FastAPI, GraphQL
+- **Data:** PostgreSQL, MongoDB, Neo4j, Redis, Prisma
+- **Cloud and delivery:** AWS, GCP, Docker, GitHub Actions, Jenkins
+- **Machine learning:** PyTorch, Hugging Face, scikit-learn, SageMaker
 
+### Research
 
-<!--
-**AhmadSaleh22/AhmadSaleh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I studied Computer Systems Engineering at Al-Azhar University. While still a student I co-wrote [Brain Tumor Classification using Deep Learning](https://ieeexplore.ieee.org/document/9328072) (IEEE iCareTech 2020), which has since passed 300 citations.
 
-Here are some ideas to get you started:
+### Notes
 
-- 🔭 I’m currently working as a FrontEnd developer
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Migrations are releases too](https://ansaleh.com/notes/migrations-are-releases?ref=github)
+- [Zero rollbacks is a process, not luck](https://ansaleh.com/notes/zero-rollbacks?ref=github)
+- [Watch them work before you ask](https://ansaleh.com/notes/watch-them-work?ref=github)
